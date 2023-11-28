@@ -14,3 +14,6 @@ https://codepen.io/eucm2/pen/oRNgBX
 
 5. Bootstrap templates
 https://medium.com/wdstack/bootstrap-sidebar-examples-e363021395ff
+
+6. Bootstrap templates 2
+https://getbootstrap.com/docs/5.2/examples/offcanvas-navbar/
