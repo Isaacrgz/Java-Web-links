@@ -11,3 +11,6 @@ https://github.com/amolkapadi/dishcarddesign/blob/main/index.html
 
 4. Chart.js sample
 https://codepen.io/eucm2/pen/oRNgBX
+
+5. Bootstrap templates
+https://medium.com/wdstack/bootstrap-sidebar-examples-e363021395ff
